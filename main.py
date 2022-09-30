@@ -4,7 +4,7 @@ import openpyxl
 
 
 st.set_page_config(page_title='Abdoshy App')
-st.title('Excal Mohamed 📊')
+st.title('Excal Abd 📊')
 st.subheader('this is test text')
 u_file=st.file_uploader('Choose a XLSX file',type='xlsx')
 if u_file:
